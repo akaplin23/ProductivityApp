@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  productivity-app
 //
-//  Created by Ava Kaplin on 1/18/26.
 //
 
 import SwiftUI
