@@ -12,15 +12,19 @@ Our app aims to reduce procrastination by combining task management with social 
 | Platform | iOS |
 | IDE | XCode |
 | Programming language | Swift |
-|Libraries' Framework | SwiftUI |
+|Libraries/Framework | SwiftUI |
 
 
 ## App Structures & Feautures
+
+![User Flow](images/user_flow.png)
+
+
 - Home Dashboard
   - Displays current tasks/goals
   - Shows overview of progress
 - Profile & Settings
-  - Create an account
+  - Make edits to profile
   - Add friends
   - Notification controls
 - Task Management
@@ -30,6 +34,7 @@ Our app aims to reduce procrastination by combining task management with social 
 - Accountability Feautures
   - Personal streak
   - Shared streak with friends
+  - Overview of friend's progress
 - Notifications
   - Productivity check ins
  
