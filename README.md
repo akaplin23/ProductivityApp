@@ -17,8 +17,8 @@ Our app aims to reduce procrastination by combining task management with social 
 
 ## App Structures & Feautures
 
-![User Flow](images/user_flow.jpg)
-
+### Basic User Flow
+<img src="images/user_flow.jpg" width="400">
 
 - Home Dashboard
   - Displays current tasks/goals
